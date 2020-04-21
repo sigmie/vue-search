@@ -1,7 +1,6 @@
 {
   "name": "vue-search",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "vue serve --open src/components/SearchBox.vue",
     "serve": "vue-cli-service serve",
